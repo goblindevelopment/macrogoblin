@@ -1,4 +1,4 @@
-<h1>WoW Bots that are featured in our WoW Fish Bot Bundle are not limited to just <b>fishing!</b></h1>
+<h1>MMO Macros and WoW Bots that are featured in our WoW Fish Bots, WoW Rotations, MMO Macros Bundle are not limited to just <b>fishing or WoW!</b></h1>
 <br>included for your All In One Launcher that can automate tasks for everything including:
 
 <br>Pixel based or Memory Based with LUA Unlockers
